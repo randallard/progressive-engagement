@@ -81,3 +81,15 @@ The system is built around progressive engagement:
 - Automatic local saving
 - Optional backup methods
 - Choice between simplicity (email backup) and convenience (cloud sync)
+
+## Development Status
+
+This project is under active development. Check our [Development Plan](docs/development-plan.md) for details on:
+- Current progress
+- Upcoming features
+- Testing strategy
+- Release timeline
+
+## Getting Started
+
+[Coming soon]
