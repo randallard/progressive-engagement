@@ -3,7 +3,7 @@
 A lightweight game system designed for progressive user engagement. Players can start immediately with minimal commitment and choose their preferred way to preserve progress later.  [Connecting to people](docs/connecting-to-people.md) will be just as easy.
 
 
-Premium memberships add cloud storage.
+Basically, free plan gets browser storage of game data and friends data, Premium memberships add cloud storage.
 
 
 ## Features
