@@ -1,6 +1,6 @@
 # Browser-Based Game System
 
-A lightweight game system designed for progressive user engagement. Players can start immediately with minimal commitment and choose their preferred way to preserve progress later.  [Connecting to people](connecting-to-people.md) will be just as easy.
+A lightweight game system designed for progressive user engagement. Players can start immediately with minimal commitment and choose their preferred way to preserve progress later.  [Connecting to people](docs/connecting-to-people.md) will be just as easy.
 
 
 Premium memberships add cloud storage.
